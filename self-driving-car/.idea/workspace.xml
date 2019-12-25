@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23303aa8-3f78-4600-99fc-63e116f115ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VHdDdbDV1FzaBqxNtFXAACb9m5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.models">
+    <configuration name="augmentation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="self-driving-car" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/augmentation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="augmentation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="self-driving-car" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/augmentation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="self-driving-car" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="self-driving-car" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.augmentation (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.augmentation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23303aa8-3f78-4600-99fc-63e116f115ce" name="Default Changelist" comment="" />
+      <created>1576913835618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576913835618</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="284" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577290549675">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="309" y="284" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.998@0.27.1920.998" timestamp="1577290549675" />
+    <state width="1897" height="125" key="GridCell.Tab.0.bottom" timestamp="1577291178261">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="1897" height="125" key="GridCell.Tab.0.bottom/0.27.1920.998@0.27.1920.998" timestamp="1577291178261" />
+    <state width="1897" height="125" key="GridCell.Tab.0.center" timestamp="1577291178261">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="1897" height="125" key="GridCell.Tab.0.center/0.27.1920.998@0.27.1920.998" timestamp="1577291178261" />
+    <state width="1897" height="125" key="GridCell.Tab.0.left" timestamp="1577291178261">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="1897" height="125" key="GridCell.Tab.0.left/0.27.1920.998@0.27.1920.998" timestamp="1577291178261" />
+    <state width="1897" height="125" key="GridCell.Tab.0.right" timestamp="1577291178261">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="1897" height="125" key="GridCell.Tab.0.right/0.27.1920.998@0.27.1920.998" timestamp="1577291178261" />
+    <state width="1016" height="318" key="GridCell.Tab.1.bottom" timestamp="1577289445635">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="1016" height="318" key="GridCell.Tab.1.bottom/0.27.1920.998@0.27.1920.998" timestamp="1577289445635" />
+    <state width="1016" height="318" key="GridCell.Tab.1.center" timestamp="1577289445634">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="1016" height="318" key="GridCell.Tab.1.center/0.27.1920.998@0.27.1920.998" timestamp="1577289445634" />
+    <state width="1016" height="318" key="GridCell.Tab.1.left" timestamp="1577289445634">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="1016" height="318" key="GridCell.Tab.1.left/0.27.1920.998@0.27.1920.998" timestamp="1577289445634" />
+    <state width="1016" height="318" key="GridCell.Tab.1.right" timestamp="1577289445635">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="1016" height="318" key="GridCell.Tab.1.right/0.27.1920.998@0.27.1920.998" timestamp="1577289445635" />
+    <state x="728" y="288" width="1022" height="737" key="SettingsEditor" timestamp="1577290656285">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="728" y="288" width="1022" height="737" key="SettingsEditor/0.27.1920.998@0.27.1920.998" timestamp="1577290656285" />
+  </component>
+</project>
